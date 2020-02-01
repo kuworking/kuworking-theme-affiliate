@@ -51,8 +51,7 @@ plugins: [
     options: {
       standalone: false,
       basePath: '/',
-      path: options.jsonPath || `content/json`,
-      name: options.jsonPath || `content/json`,
+      path: `content/json`,
     },
   },
 ]
