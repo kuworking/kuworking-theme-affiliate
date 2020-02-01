@@ -1,0 +1,153 @@
+[
+  { "category": "tech", "description": "tech products" },
+  {
+    "name": "CHUWI HeroBook",
+    "link": "https://amzn.to/36EgDb1",
+    "image": "/HeroBook.jpg",
+    "price": "175€"
+  },
+  {
+    "name": "CHUWI AeroBook",
+    "link": "https://amzn.to/38Pv8dj",
+    "image": "/AeroBook.jpg",
+    "price": "479€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "Acer Aspire 5",
+    "link": "https://amzn.to/31clVt1",
+    "image": "/AcerAspire5.jpg",
+    "price": "670€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "CHUWI HeroBook",
+    "link": "https://amzn.to/36EgDb1",
+    "image": "/HeroBook.jpg",
+    "price": "175€"
+  },
+  {
+    "name": "CHUWI AeroBook",
+    "link": "https://amzn.to/38Pv8dj",
+    "image": "/AeroBook.jpg",
+    "price": "479€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "Acer Aspire 5",
+    "link": "https://amzn.to/31clVt1",
+    "image": "/AcerAspire5.jpg",
+    "price": "670€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "CHUWI HeroBook",
+    "link": "https://amzn.to/36EgDb1",
+    "image": "/HeroBook.jpg",
+    "price": "175€"
+  },
+  {
+    "name": "CHUWI AeroBook",
+    "link": "https://amzn.to/38Pv8dj",
+    "image": "/AeroBook.jpg",
+    "price": "479€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "Acer Aspire 5",
+    "link": "https://amzn.to/31clVt1",
+    "image": "/AcerAspire5.jpg",
+    "price": "670€"
+  },
+  {
+    "name": "CHUWI HeroBook",
+    "link": "https://amzn.to/36EgDb1",
+    "image": "/HeroBook.jpg",
+    "price": "175€"
+  },
+  {
+    "name": "CHUWI AeroBook",
+    "link": "https://amzn.to/38Pv8dj",
+    "image": "/AeroBook.jpg",
+    "price": "479€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "Acer Aspire 5",
+    "link": "https://amzn.to/31clVt1",
+    "image": "/AcerAspire5.jpg",
+    "price": "670€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "CHUWI HeroBook",
+    "link": "https://amzn.to/36EgDb1",
+    "image": "/HeroBook.jpg",
+    "price": "175€"
+  },
+  {
+    "name": "CHUWI AeroBook",
+    "link": "https://amzn.to/38Pv8dj",
+    "image": "/AeroBook.jpg",
+    "price": "479€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "MSI Modern 14",
+    "link": "https://amzn.to/37Ek6ax",
+    "image": "/MSIModern14.jpg",
+    "price": "700€"
+  },
+  {
+    "name": "Acer Aspire 5",
+    "link": "https://amzn.to/31clVt1",
+    "image": "/AcerAspire5.jpg",
+    "price": "670€"
+  }
+]
