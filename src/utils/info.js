@@ -1,11 +1,12 @@
-const site = 'kuworking'
+const standalone = true
 const basePath = '/'
+const jsonPath = 'content/json'
+const site = 'kuworking'
 
 module.exports = {
-  standalone: true,
-  website: {
-    basePath: basePath,
-  },
+  standalone: standalone,
+  basePath: basePath,
+  jsonPath: jsonPath,
   metaData: {
     site: site,
     title: 'Gatsby Theme kuworking affiliate',
@@ -14,7 +15,6 @@ module.exports = {
   },
   tagManager: '',
   siteMapExclude: ['/dummy'],
-  folders_to_check: ['content/json'],
   manifest: {
     name: site,
     short_name: site,

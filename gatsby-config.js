@@ -4,9 +4,7 @@ module.exports = {
   plugins: [
     {
       resolve: `gatsby-theme-kuworking-affiliate`,
-      options: {
-        info,
-      },
+      options: info,
     },
   ],
 }

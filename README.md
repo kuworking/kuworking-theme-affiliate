@@ -50,8 +50,8 @@ plugins: [
     resolve: `gatsby-theme-kuworking-affiliate`,
     options: {
       standalone: false,
-      basePath: '/',
-      path: `content/json`,
+      basePath: '/tienda/',
+      jsonPath: '/content/json',
     },
   },
 ]
