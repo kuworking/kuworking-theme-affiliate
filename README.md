@@ -150,5 +150,15 @@ The parts you will want to change are
     {data.YOUR_ITEMS.map((item, i) => ())}
 ```
 
+## 🏙 The Site
+
+These themes are hosted in [www.kuworking.com](https://www.kuworking.com), a site about GatsbyJS and WordPress (in Spanish 🌞)
+
+Feel free to come anytime you want 🙋‍♂️
+
+## 📻 Newsletter
+
+And if you want to suscribe to my newsletter (in Spanish), you are very welcomed, you can find the form [here](https://www.kuworking.com/list)
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kuworking/kuworking-theme-affiliate)
 
