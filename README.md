@@ -93,7 +93,6 @@ The original file (you can find it [here](https://github.com/kuworking/gatsby-th
 ```js
 import React from 'react'
 import styled from '@emotion/styled'
-import { Styled } from 'theme-ui'
 
 import { Card } from 'gatsby-theme-kuworking-affiliate'
 
@@ -140,7 +139,7 @@ const Container = styled.div`
   grid-auto-rows: ${props => props.row_unit}px;
 `
 
-const Title = styled(Styled.h1)``
+const Title = styled.h1``
 ```
 
 The parts you will want to change are
