@@ -1,6 +1,6 @@
 {
   "name": "kuworking-theme-affiliate",
-  "version": "0.1.33",
+  "version": "0.1.34",
   "description": "kuworking-theme-affiliate",
   "author": "kuworking.com",
   "license": "MIT",
@@ -9,23 +9,23 @@
     "url": "https://github.com/kuworking/kuworking-theme-affiliate.git"
   },
   "dependencies": {
-    "gatsby": "2.15.15",
-    "gatsby-theme-kuworking-affiliate": "^0.1.29",
-    "react": "16.11.0",
-    "react-dom": "16.11.0"
+    "gatsby": "2.20.9",
+    "gatsby-theme-kuworking-affiliate": "^0.1.30",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0",
-    "eslint": "^6.2.1",
-    "eslint-config-prettier": "^6.1.0",
-    "eslint-config-standard": "^14.0.0",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-node": "^9.1.0",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-promise": "^4.1.1",
-    "eslint-plugin-react": "^7.12.4",
-    "eslint-plugin-standard": "^4.0.0",
-    "prettier": "^1.16.4"
+    "babel-eslint": "10.1.0",
+    "eslint": "6.8.0",
+    "eslint-config-prettier": "6.10.1",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-import": "2.20.2",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-prettier": "3.1.2",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-react": "7.19.0",
+    "eslint-plugin-standard": "4.0.1",
+    "prettier": "2.0.2"
   },
   "scripts": {
     "develop": "gatsby develop",
