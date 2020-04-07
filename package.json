@@ -1,6 +1,6 @@
 {
   "name": "kuworking-theme-affiliate",
-  "version": "0.1.34",
+  "version": "0.1.47",
   "description": "kuworking-theme-affiliate",
   "author": "kuworking.com",
   "license": "MIT",
@@ -9,8 +9,8 @@
     "url": "https://github.com/kuworking/kuworking-theme-affiliate.git"
   },
   "dependencies": {
-    "gatsby": "2.20.9",
-    "gatsby-theme-kuworking-affiliate": "^0.1.30",
+    "gatsby": "2.20.5",
+    "gatsby-theme-kuworking-affiliate": "^0.1.43",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   },
@@ -33,5 +33,6 @@
     "serve": "gatsby clean && gatsby build && gatsby serve",
     "net": "gatsby develop -H 192.168.1.100",
     "clean": "gatsby clean"
-  }
+  },
+  "gitHead": "0b3b18d3c8a782b38d638b71913282e0a3ad2fad"
 }
