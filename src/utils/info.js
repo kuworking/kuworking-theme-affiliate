@@ -8,8 +8,8 @@ module.exports = {
   jsonPath: jsonPath,
   metaData: {
     site: 'kuworking',
-    title: 'Gatsby Theme kuworking affiliate',
-    description: 'Gatsby Theme kuworking affiliate',
+    title: 'kuworking ',
+    description: 'kuworking',
     siteUrl: 'https://www.kuworking.com',
     basePath: basePath,
   },

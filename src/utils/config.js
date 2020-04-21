@@ -1,10 +1,10 @@
 import React from 'react'
 
 export const seoText = {
-  generic_keywords: ['kuworking', 'gatsby', 'javascript'],
+  generic_keywords: [`kuworking themes`],
   grid: {
-    title: 'kuworking.com | ',
-    description: 'learn frontend development',
+    title: 'kuworking themes',
+    description: 'kuworking themes',
   },
 }
 
@@ -14,31 +14,22 @@ export const config = {
   user: 'kuworking',
   social: {
     twitter: '@kuworking',
+    facebook: 'https://www.facebook.com/kuworkingJS/',
   },
-  disqus: 'kuworking',
-  disqus_url: 'https://www.kuworking.com',
-  mail_chimp_action: 'https://gmail.us20.list-manage.com/subscribe/post?u=7679f6806268867998475ecb8&amp;id=d0543eb54f',
 }
 
 export const text = {
   header: {
-    site: 'kuworking THEME AFFILIATE',
+    site: 'kuworking',
     logo: 'KW',
   },
-  cta: {
-    title: 'Call To Action!',
-    // prettier-ignore
-    message: () => <>Drop here your <em>email</em> and I will keep you in the loop 🤠</>,
-    suscribe: 'Join',
-    error: 'mail address is wrong',
-  },
   footer: {
-    me: 'Who Am I',
+    me: 'Quién soy',
     credits: 'by kuworking.com',
     credits_url: 'https://www.kuworking.com',
     // prettier-ignore
-    date: () => <>[ 2018 - {new Date().getFullYear()} - kuworking ]</>,
-    cookies: () => <>Notice that we use cookies to improve the usability of this site</>,
+    date: () => <>[ {new Date().getFullYear()} >> kuworking ]</>,
+    cookies: () => <>Te informo que utilizo cookies para mejorar la usabilidad del website</>,
     cookies_agree: 'Ok',
   },
 }
