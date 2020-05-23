@@ -1,1 +1,1 @@
-export { seoText, config, text } from '../../utils/config'
+export { seoText, config } from '../../utils/config'
