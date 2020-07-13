@@ -13,7 +13,6 @@ export const config = {
   url: 'https://www.kuworking.com',
   user: 'kuworking',
   social: {
-    twitter: '@kuworking',
-    facebook: 'https://www.facebook.com/kuworkingJS/',
+    twitter: '',
   },
 }
